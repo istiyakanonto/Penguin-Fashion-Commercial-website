@@ -1,0 +1,49 @@
+.nav-item{
+    padding-right: 25px;
+}
+.btn {
+    background-color:#9CB33A; /* Blue background */
+    border: none; /* Remove borders */
+    color:white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  .bckcolor{
+      background-color: #FFFBF2;
+  }
+  .hdr{
+      background-color: #F2F1F2;
+  }
+  .panda-card-footer{
+    border: 0;
+    background-color: white
+}
+.hdr img{
+    height: 300px;
+    padding: 30px;
+}
+.panda-card{
+    margin-right: 15px;
+}
+.card-body{
+    height: 90px;
+}
+.panda-card-footer{
+    display: flex;
+    
+}
+.gap{
+    margin-right: 100px;
+}
+h1{
+    font-size: 60px;
+}
+.colr{
+    color: #FABE50;
+}
+.colr2{
+    color: #393959;
+}
+
+  
